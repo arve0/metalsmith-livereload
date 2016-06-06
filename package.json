@@ -12,7 +12,8 @@
   },
   "keywords": [
     "livereload",
-    "metalsmith"
+    "metalsmith",
+    "metalsmith-plugin"
   ],
   "author": "Arve Seljebu",
   "license": "MIT",
