@@ -1,0 +1,26 @@
+{
+  "name": "metalsmith-livereload",
+  "version": "0.0.1",
+  "description": "starts a livereload server and injects livereload script to html files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arve0/metalsmith-livereload.git"
+  },
+  "keywords": [
+    "livereload",
+    "metalsmith"
+  ],
+  "author": "Arve Seljebu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/arve0/metalsmith-livereload/issues"
+  },
+  "homepage": "https://github.com/arve0/metalsmith-livereload#readme",
+  "dependencies": {
+    "livereload": "^0.4.1"
+  }
+}
