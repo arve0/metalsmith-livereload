@@ -1,3 +1,4 @@
+[![npm version](https://badge.fury.io/js/metalsmith-livereload.svg)](https://badge.fury.io/js/metalsmith-livereload)
 # metalsmith-livereload
 
 Starts a [livereload] server and injects client side livereload script before `</body>` to all `.html`-files.
