@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/arve0/metalsmith-livereload#readme",
   "dependencies": {
-    "livereload": "^0.4.1"
+    "livereload": "^0.6.2"
   }
 }
