@@ -16,6 +16,7 @@ Metalsmith(__dirname)
   .use(livereload({
     // defaults
     debug: false,  // print debug messages
+    delay: 0, // add a delay before reloading the browser
     script: '<script ...'  // livereload script to inject
   }))
   .build((err, files) => {
