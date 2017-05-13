@@ -1,6 +1,6 @@
 {
   "name": "metalsmith-livereload",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "starts a livereload server and injects livereload script to html files",
   "main": "index.js",
   "scripts": {
